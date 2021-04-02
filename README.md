@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nazimmohd18
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Development for any different OS
+- 💞️ I’m looking to collaborate on Flutter Development for any OS
 - 📫 You can reach me at nazimmohd18@gmail.com
 
 <!---
