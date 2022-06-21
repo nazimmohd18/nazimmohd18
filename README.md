@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazimmohd18
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently employing at Synergyworks as a Flutter Developer
+- 🌱 I’m currently employing at SynergyWorks as a Flutter Developer
 - 💞️ I’m looking to collaborate on Flutter App Development
 - 📫 You can reach me at nazimmohd18@gmail.com
 
